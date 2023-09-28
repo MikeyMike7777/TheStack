@@ -1,0 +1,6 @@
+t This
+t is
+t a
+t bad
+t one
+g
